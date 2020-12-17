@@ -12,8 +12,8 @@
 |1|파이썬 기반의 머신러닝과 생태계 이해|권지수 `@gogosoy`|[📚](https://github.com/yskim0/Ewha_Data_Analysis/blob/main/Week_1/%EA%B6%8C%EC%A7%80%EC%88%98_Week1.pdf)|
 |2|사이킷런으로 시작하는 머신러닝|김연수 `@yskim0`|[📚](https://github.com/yskim0/Ewha_Data_Analysis/blob/main/Week_2/%EA%B9%80%EC%97%B0%EC%88%98_Week2.ipynb)|
 |3|평가|이송 `@deblee2`|[📚](https://github.com/yskim0/Ewha_Data_Analysis/blob/main/Week_3/%EC%9D%B4%EC%86%A1_Week3.ipynb)|
-|4|분류|김연수 `@yskim0`|[📚]()|
-|5|분류 2|권지수 `@gogosoy`|[📚]()|
+|4|분류 (~GBM) |권지수 `@gogosoy`|[📚]()|
+|5|분류 2 |김연수 `@yskim0`|[📚]()|
 |6|회귀|조승윤 `@Yoon140`|[📚]()|
 |7|차원 축소|이지원 `@white-bean`|[📚]()|
 |8|군집화|김희숙 `@kimsook`|[📚]()|
