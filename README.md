@@ -1,3 +1,7 @@
+# 이 레포지터리로 옮깁니다. [링크](https://github.com/Ewha-Dev/Data-Analysis)
+
+-----
+
 # 💻 Ewha Data Analysis
 
 - 이화여대 데이터 분석 스터디 2020.11 부터 시작하는 10주 스터디!
